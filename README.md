@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+Currently working at DevRev, building the first AI-native CRM. 
+I graduated from UW-Madison in 2023 with Bachelor's in Mathematics and Computer Science.
+Feel free to connect to work on any interesting, thought-provoking projects :)
+
+
+Linkedin: [@ekaterine-arshinova](https://www.linkedin.com/in/ekaterina-arshinova/)
+
 <!--
 **crystalktr/crystalktr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
